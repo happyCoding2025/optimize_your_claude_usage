@@ -10,7 +10,7 @@
 ╚══════════════════════════════════════╝
 ```
 
-> This repository contains battle-tested strategies for reducing Claude Code costs from $80+/month to under $20/month (within Pro subscription), while maintaining or improving development velocity.
+> This repository contains battle-tested strategies for reducing Claude Code costs from $80+/month to under $30/month (within Pro subscription), while maintaining or improving development velocity.
 
 ---
 
