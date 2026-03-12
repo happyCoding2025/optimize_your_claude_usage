@@ -2,6 +2,14 @@
 
 **Cut your Claude Code costs by 80%+ using a dual-AI architecture and disciplined token management.**
 
+```
+╔══════════════════════════════════════╗
+║  Before:  $80–120 / month            ║
+║  After:   $26 / month                ║
+║  Savings: 70%+  •  same velocity     ║
+╚══════════════════════════════════════╝
+```
+
 > This repository contains battle-tested strategies for reducing Claude Code costs from $80+/month to under $20/month (within Pro subscription), while maintaining or improving development velocity.
 
 ---
@@ -30,7 +38,7 @@ Architecture design       Batch refactoring
 Brief spec (100 tokens) → Execute (5,000 tokens at 1/7 price)
 ```
 
-**Result**: Claude:Executor token ratio of **1:7 or better**, Claude costs fit within Pro subscription ($20/month).
+**Result**: Claude:Executor token ratio of **1:7 or better**, total cost drops from **$80-120/month → $26/month**.
 
 ---
 
@@ -122,7 +130,7 @@ Context at 100% → forced compact → you already paid for the full 200k
 |----------|-------------|----------------|-------|
 | Naive usage | $80-120 | $0 | $80-120 |
 | Dual-AI, unoptimized | $40 | $24 | $64 |
-| Dual-AI + all 5 rules | **$10** | **$24** | **$34** |
+| Dual-AI + all 5 rules | **$2** | **$24** | **$26** |
 
 ---
 
